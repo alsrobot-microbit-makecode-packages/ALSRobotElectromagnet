@@ -1,0 +1,13 @@
+{
+    "name": "Electromagnet",
+    "dependencies": {
+        "core": "*"
+    },
+    "description": "电磁铁传感器 由哈尔滨奥松机器人科技股份有限公司（Alsrobot）开发、维护",
+    "icon": "./Electromagnet.jpg",
+    "license": "MIT",
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}
