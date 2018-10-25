@@ -20,6 +20,8 @@ Electromagnet.magnetController(DigitalPin.P1, controllerList.con2)
 MIT
 
 
+
+
 # ALSRobot Electromagnet
 软件包的github地址为：https://github.com/alsrobot-microbit-makecode-packages/ALSRobotElectromagnet
 软件包的修改维护人员：https://github.com/bobolx
