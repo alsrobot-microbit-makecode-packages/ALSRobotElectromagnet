@@ -22,7 +22,7 @@ MIT
 
 
 
-# ALSRobot Electromagnet
+# 奥松电磁铁模块
 软件包的github地址为：https://github.com/alsrobot-microbit-makecode-packages/ALSRobotElectromagnet
 软件包的修改维护人员：https://github.com/bobolx
 
