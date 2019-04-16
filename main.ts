@@ -1,8 +1,8 @@
 
 enum controllerList{
-    //% block="有"
+    //% block="ON"
     con1 = 1,
-    //% block="无"
+    //% block="OFF"
     con2 = 0
 }
 
@@ -10,7 +10,7 @@ enum controllerList{
 namespace Electromagnet {
 
     //% weight=99
-    //% blockId="magnet_controller" block="连接引脚 %pin| 电磁铁 %con| 磁性"
+    //% blockId="magnet_controller" block="Pin %pin| Electromagnet %con| Magnetism"
     export function magnetController(pin: DigitalPin, con:controllerList): void {
 
         pins.digitalWritePin(pin, con);
