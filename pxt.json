@@ -7,7 +7,8 @@
     "icon": "icon.png",
     "license": "MIT",
     "files": [
-        "main.ts"
+        "main.ts",
+		"_locales/zh/Electromagnet-strings.json"
     ],
     "public": true
 }
